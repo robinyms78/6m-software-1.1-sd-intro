@@ -18,11 +18,11 @@ classname:
 elementThree 
 
 content:
-padding: 10px;
-backgound-color: aquamarine;
-text-shadow: 1px 1px white;
-border: gray solid 2px;
-border-radius: 10px;
+padding: 10px
+backgound-color: aquamarine
+text-shadow: 1px 1px white
+border: gray solid 2px
+border-radius: 10px
 ```
 
 4. What is the css selector of the fourth element?
