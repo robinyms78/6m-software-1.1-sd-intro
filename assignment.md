@@ -27,7 +27,9 @@ border-radius: 10px
 
 4. What is the css selector of the fourth element?
 ```
-Your answer here
+div:nth-child(6th) {
+   color: red;
+}
 ```
 
 5. What is the code you use to keep the blue box within the purple?
