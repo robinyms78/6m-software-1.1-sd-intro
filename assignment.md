@@ -27,7 +27,7 @@ border-radius: 10px
 
 4. What is the css selector of the fourth element?
 ```
-div:nth-child(6th) {
+div:nth-child(6) {
    color: red;
 }
 ```
