@@ -14,7 +14,13 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 
 3. What is the class name of the third element and the content of the css?
 ```
-Your answer here
+elementThree {
+padding: 10px;
+backgound-color: aquamarine;
+text-shadow: 1px 1px white;
+border: gray solid 2px;
+border-radius: 10px;
+}
 ```
 
 4. What is the css selector of the fourth element?
